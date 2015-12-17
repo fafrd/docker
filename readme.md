@@ -1,6 +1,6 @@
 # Docker images
 
-This repo contains some docker images I've created. (right now there's one one project I have in docker.)
+This repo contains some docker images I've created. (right now there's only one project here.)
 
 ## turdle
 
